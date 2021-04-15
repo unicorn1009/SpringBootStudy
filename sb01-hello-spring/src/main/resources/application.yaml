@@ -1,0 +1,7 @@
+# properties和yaml配置文件同时存在时, 都会生效, 相同配置以properties为先
+person:
+  name: 李四
+  age: 30
+  birthday: 1997/04/14 08:30:30
+  hobbies: [ "游泳", "跑步", "骑马" ]
+

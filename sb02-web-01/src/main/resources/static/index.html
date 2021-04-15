@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>欢迎页</title>
+</head>
+<body>
+<h2>Spring Boot 2!</h2>
+<form action="/param/user" method="post">
+    姓名:<br>
+    <input type="text" name="name">
+    <br>
+    年龄:<br>
+    <input type="text" name="age">
+    <input type="submit" value="Submit">
+</form>
+<hr />
+<form action="/customparam/student" method="post">
+    姓名:<br>
+    <input type="text" name="name">
+    <br>
+    性别:<br>
+    <input type="text" name="gender">
+    <br>
+    年龄:<br>
+    <input type="text" name="age">
+    <input type="submit" value="Submit">
+</form>
+<hr />
+<h2>文件上传测试</h2>
+<form action="/upload" method="post" enctype="multipart/form-data">
+    姓名:<br>
+    <input type="text" name="name">
+    <br>
+    年龄:<br>
+    <input type="text" name="age">
+    <br>
+    头像:<br>
+    <input type="file" name="avatar">
+    <input type="file" name="album" multiple>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
