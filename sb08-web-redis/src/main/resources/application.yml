@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: r-bp11663c5c59ddb4pd.redis.rds.aliyuncs.com
+    port: 6379
+    password: lc:Wodemima1009
+    client-type: jedis  # 底层默认使用的是Lettuce客户端, 可更改为jedis
+#    url: redis://lc:Wodemima1009@r-bp11663c5c59ddb4pd.redis.rds.aliyuncs.com:6379

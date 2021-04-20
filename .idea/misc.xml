@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/sb01-hello-spring/pom.xml" />
         <option value="$PROJECT_DIR$/sb02-web-01/pom.xml" />
         <option value="$PROJECT_DIR$/sb03-web-druid/pom.xml" />
+        <option value="$PROJECT_DIR$/sb07-web-mybatisplus/pom.xml" />
+        <option value="$PROJECT_DIR$/sb08-web-redis/pom.xml" />
       </list>
     </option>
   </component>

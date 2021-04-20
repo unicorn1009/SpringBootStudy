@@ -9,13 +9,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="sb01-hello-spring" />
         <module name="sb02-web-01" />
+        <module name="sb07-web-mybatisplus" />
         <module name="sb03-web-druid" />
+        <module name="sb08-web-redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="sb01-hello-spring" target="1.8" />
       <module name="sb02-web-01" target="1.8" />
       <module name="sb03-web-druid" target="1.8" />
+      <module name="sb07-web-mybatisplus" target="1.8" />
+      <module name="sb08-web-redis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +27,8 @@
       <module name="sb01-hello-spring" options="-parameters" />
       <module name="sb02-web-01" options="-parameters" />
       <module name="sb03-web-druid" options="-parameters" />
+      <module name="sb07-web-mybatisplus" options="-parameters" />
+      <module name="sb08-web-redis" options="-parameters" />
     </option>
   </component>
 </project>
