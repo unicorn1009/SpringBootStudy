@@ -5,9 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/sb01-hello-spring/sb01-hello-spring.iml" filepath="$PROJECT_DIR$/sb01-hello-spring/sb01-hello-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb02-web-01/sb02-web-01.iml" filepath="$PROJECT_DIR$/sb02-web-01/sb02-web-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb03-web-druid/sb03-web-druid.iml" filepath="$PROJECT_DIR$/sb03-web-druid/sb03-web-druid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sb04-web-druidstarter/sb04-web-druidstarter.iml" filepath="$PROJECT_DIR$/sb04-web-druidstarter/sb04-web-druidstarter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sb05-web-mybatisstarter/sb05-web-mybatisstarter.iml" filepath="$PROJECT_DIR$/sb05-web-mybatisstarter/sb05-web-mybatisstarter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sb06-web-mybatisannotation/sb06-web-mybatisannotation.iml" filepath="$PROJECT_DIR$/sb06-web-mybatisannotation/sb06-web-mybatisannotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb07-web-mybatisplus/sb07-web-mybatisplus.iml" filepath="$PROJECT_DIR$/sb07-web-mybatisplus/sb07-web-mybatisplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb08-web-redis/sb08-web-redis.iml" filepath="$PROJECT_DIR$/sb08-web-redis/sb08-web-redis.iml" />
     </modules>
   </component>
 </project>
