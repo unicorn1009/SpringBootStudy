@@ -8,10 +8,13 @@
         <option value="$PROJECT_DIR$/sb03-web-druid/pom.xml" />
         <option value="$PROJECT_DIR$/sb07-web-mybatisplus/pom.xml" />
         <option value="$PROJECT_DIR$/sb08-web-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/sb04-web-druidstarter/pom.xml" />
+        <option value="$PROJECT_DIR$/sb05-web-mybatisstarter/pom.xml" />
+        <option value="$PROJECT_DIR$/sb06-web-mybatisannotation/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

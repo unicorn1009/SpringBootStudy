@@ -7,10 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sb07-web-mybatisplus" />
+        <module name="sb05-web-mybatisstarter" />
+        <module name="sb03-web-druid" />
         <module name="sb01-hello-spring" />
         <module name="sb02-web-01" />
-        <module name="sb07-web-mybatisplus" />
-        <module name="sb03-web-druid" />
+        <module name="sb04-web-druidstarter" />
+        <module name="sb06-web-mybatisannotation" />
         <module name="sb08-web-redis" />
       </profile>
     </annotationProcessing>
@@ -18,6 +21,9 @@
       <module name="sb01-hello-spring" target="1.8" />
       <module name="sb02-web-01" target="1.8" />
       <module name="sb03-web-druid" target="1.8" />
+      <module name="sb04-web-druidstarter" target="1.8" />
+      <module name="sb05-web-mybatisstarter" target="1.8" />
+      <module name="sb06-web-mybatisannotation" target="1.8" />
       <module name="sb07-web-mybatisplus" target="1.8" />
       <module name="sb08-web-redis" target="1.8" />
     </bytecodeTargetLevel>
@@ -27,6 +33,9 @@
       <module name="sb01-hello-spring" options="-parameters" />
       <module name="sb02-web-01" options="-parameters" />
       <module name="sb03-web-druid" options="-parameters" />
+      <module name="sb04-web-druidstarter" options="-parameters" />
+      <module name="sb05-web-mybatisstarter" options="-parameters" />
+      <module name="sb06-web-mybatisannotation" options="-parameters" />
       <module name="sb07-web-mybatisplus" options="-parameters" />
       <module name="sb08-web-redis" options="-parameters" />
     </option>
