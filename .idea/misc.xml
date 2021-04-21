@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/sb03-web-druid/pom.xml" />
         <option value="$PROJECT_DIR$/sb04-web-druidstarter/pom.xml" />
         <option value="$PROJECT_DIR$/sb05-web-mybatisstarter/pom.xml" />
+        <option value="$PROJECT_DIR$/sb06-web-mybatisannotation/pom.xml" />
       </list>
     </option>
   </component>

@@ -2,6 +2,7 @@ package com.unicorn.mapper;
 
 import com.unicorn.entity.Student;
 import org.apache.ibatis.annotations.Mapper;
+import org.apache.ibatis.annotations.Select;
 
 import java.util.List;
 
@@ -14,6 +15,7 @@ import java.util.List;
  */
 @Mapper
 public interface StudentMapper {
+    @Select("select * from student where id=#{id}")
     Student getStudentById(int id);
 
     List<Student> getAllStudents();

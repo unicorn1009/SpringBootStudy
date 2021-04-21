@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/sb03-web-druid/sb03-web-druid.iml" filepath="$PROJECT_DIR$/sb03-web-druid/sb03-web-druid.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb04-web-druidstarter/sb04-web-druidstarter.iml" filepath="$PROJECT_DIR$/sb04-web-druidstarter/sb04-web-druidstarter.iml" />
       <module fileurl="file://$PROJECT_DIR$/sb05-web-mybatisstarter/sb05-web-mybatisstarter.iml" filepath="$PROJECT_DIR$/sb05-web-mybatisstarter/sb05-web-mybatisstarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb06-web-mybatisannotation/sb06-web-mybatisannotation.iml" filepath="$PROJECT_DIR$/sb06-web-mybatisannotation/sb06-web-mybatisannotation.iml" />
     </modules>
   </component>
 </project>

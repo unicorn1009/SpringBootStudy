@@ -3,5 +3,8 @@
         PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
-
+<!--    <settings>-->
+<!--        开启驼峰命名映射, 即数据库字段下划线可映射驼峰命名属性, 也可在全局配置文件中配置 -->
+<!--        <setting name="mapUnderscoreToCamelCase" value="true"/>-->
+<!--    </settings>-->
 </configuration>

@@ -1,7 +1,6 @@
 package com.unicorn.controller;
 
 import com.unicorn.entity.Student;
-import com.unicorn.mapper.StudentMapper;
 import com.unicorn.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
